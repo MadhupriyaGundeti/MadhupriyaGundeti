@@ -8,5 +8,4 @@
 - 👯 I’m looking to collaborate with ...Amazon
 - 🤔 I’m looking for help with ...Friend
 - 💬 Ask me about ...Anything
-- 📫 How to reach me: ...Through Email
-- 😄 Pronouns: ...She
+- 📫 How to reach me: ...Through Email <madhupriyareddy1919@gmail.com>
