@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently persuing...Masters in Applied Computer Science
+- 🔭 I’m currently pursuing...Masters in Applied Computer Science
 - 🌱 I’m currently learning ...Web applications
 - 👯 I’m looking to collaborate with ...Amazon
 - 🤔 I’m looking for help with ...Friend
